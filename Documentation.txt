@@ -1,0 +1,16 @@
+
+
+		Song Studio
+
+
+	Aim:
+		This is a Android Application prefering for playing songs and Subscription of songs
+
+	Deployment Procedure:
+		
+		Step 1:     You need to have Android Studio to run the application
+		Step 2:    Unzip the code and Sync with the gradle files
+		Step 3:   Apk file is provided in the  " HachathonApplication2\app\build\outputs\apk\debug " folder
+		Step 4:   Copy the Application to Android device and install (or) by emulator in android studio.
+
+	Thank You
